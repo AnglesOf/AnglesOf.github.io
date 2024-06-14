@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Marlowe's Homepage"
+title                    : "Marlo-Li's Homepage"
 description              : "openST"
-repository               : "anglesof/AnglesOf.github.io"
+repository               : "marlo-Li/marlo-Li.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
